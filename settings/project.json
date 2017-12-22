@@ -1,0 +1,23 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [],
+  "fit-height": true,
+  "fit-width": true,
+  "group-list": [
+    "default"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "4a5e80b1-dbf5-4e67-96ab-7db9812522ed",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false
+}
